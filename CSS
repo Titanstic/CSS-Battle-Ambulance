@@ -1,0 +1,147 @@
+.cw {
+    background-color: white;
+    position: absolute;
+}
+
+.cb {
+    background-color: black;
+    position: absolute;
+}
+
+.br {
+    border-radius: 20q;
+}
+
+.br2 {
+    border-radius: 10q;
+}
+
+.bb {
+    width: 230q;
+    height: 50q;
+    border-radius: 30q;
+    top: 90q;
+    left: 180q;
+}
+
+.s {
+    width: 40q;
+    height: 40q;
+    left: 95q;
+    top: 5q;
+}
+
+.b {
+    width: 430q;
+    height: 180q;
+    top: 293q;
+    left: 98q;
+}
+
+.bk {
+    width: 50q;
+    height: 150q;
+    transform: rotate(10deg);
+    left: 110q;
+    top: 167q;
+}
+
+.m {
+    width: 200q;
+    height: 150q;
+    top: 155q;
+    left: 123q;
+}
+
+.p1 {
+    width: 30q;
+    height: 100q;
+    left: 195q;
+    top: 195q;
+}
+
+.p2 {
+    width: 100q;
+    height: 30q;
+    left: 160q;
+    top: 230q;
+}
+
+.f {
+    width: 190q;
+    height: 150q;
+    top: 155q;
+    left: 275q;
+}
+
+.f6 {
+    width: 110q;
+    height: 100q;
+    top: 24q;
+    left: 92q;
+}
+
+.f2 {
+    width: 20q;
+    height: 190q;
+    top: 138q;
+    left: 500q;
+    transform: rotate(142deg);
+}
+
+.f3 {
+    width: 20q;
+    height: 120q;
+    top: 233q;
+    left: 589q;
+    transform: rotate(100deg);
+}
+
+.f4 {
+    width: 150q;
+    height: 130q;
+    top: 348q;
+    left: 508q;
+}
+
+.f5 {
+    width: 133q;
+    height: 80q;
+    border-radius: 5q;
+    top: 292q;
+    left: 525q;
+}
+
+.f7 {
+    width: 100q;
+    height: 30q;
+    top: 279q;
+    left: 450q;
+}
+
+.br3 {
+    border-radius: 50%;
+}
+
+.ce {
+    width: 120q;
+    height: 120q;
+    border: 10q solid white;
+}
+
+.cs {
+    width: 60q;
+    height: 60q;
+    top: 30q;
+    left: 30q;
+}
+
+.ft1 {
+    top: 400q;
+    left: 155q;
+}
+
+.ft2 {
+    top: 398q;
+    left: 450q;
+}
